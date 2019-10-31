@@ -1,6 +1,6 @@
 ## About ODATA Rest Services
 
-This project creates an OData REST service that accepts GET requests, in order to retrieve data from XOrders.xml and XCustomers.xml.
+This project uses functional programming techniques to create an OData REST service that accepts GET requests, in order to retrieve data from XOrders.xml and XCustomers.xml.
 
 ## Instructions for how to develop, use, and test the code.
 
